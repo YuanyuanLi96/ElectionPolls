@@ -1,0 +1,17 @@
+,,no weights,,1/ebup,,1/rank,,
+state,call,MODEL,POP,model,adjusted_POP,model_pred,adjusted_crude_pred,Votes
+Arizona,D,R,D,R,D,R,R,11
+Florida,R,R,D,R,D,R,D,29
+Michigan,D,D,D,D,D,R,D,16
+Minnesota,D,D,D,D,D,R,D,10
+North Carolina,R,R,D,R,D,R,D,15
+Pennsylvania,D,D,D,D,D,R,D,20
+Wisconsin,D,D,D,D,D,R,D,10
+Arizona,R,R,R,D,R,R,R,11
+Florida,R,R,D,R,D,R,D,29
+Michigan,R,R,D,R,D,R,D,16
+Nevada,D,R,D,R,D,R,D,6
+New Mexico,D,D,D,R,D,D,D,5
+North Carolina,R,R,D,D,D,D,D,15
+Pennsylvania,R,R,D,R,D,R,D,20
+Wisconsin,R,R,D,R,D,R,D,10

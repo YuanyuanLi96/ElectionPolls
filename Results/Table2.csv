@@ -1,0 +1,21 @@
+"state","call","model_pred","adjusted_crude_pred","crude_pred","Votes"
+"Florida","R","D","D","D",29
+"North Carolina","R","R","D","D",15
+"state","call","model_pred","adjusted_crude_pred","crude_pred","Votes"
+"Florida","R","R","D","D",29
+"Michigan","R","R","D","D",16
+"Nevada","D","R","D","D",6
+"North Carolina","R","R","D","D",15
+"Pennsylvania","R","R","D","D",20
+"Wisconsin","R","R","D","D",10
+"state","call","model_pred","adjusted_crude_pred","crude_pred","Votes"
+"Arizona","D","R","D","D",11
+"Florida","R","R","D","D",29
+"North Carolina","R","R","D","D",15
+"state","call","model_pred","adjusted_crude_pred","crude_pred","Votes"
+"Florida","R","R","D","D",29
+"Michigan","R","R","D","D",16
+"Nevada","D","R","D","D",6
+"North Carolina","R","R","D","D",15
+"Pennsylvania","R","R","D","D",20
+"Wisconsin","R","R","D","D",10
