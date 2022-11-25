@@ -10,4 +10,4 @@ Steps to replicate results in the paper:
 
 ## References
 
-- ["Uncertainty Quantification for Model Selection, Rate Estimation and Related Topics" bu Yuanyuan Li](https://escholarship.org/uc/item/5rg4q3sb).
+- ["Uncertainty Quantification for Model Selection, Rate Estimation and Related Topics" by Yuanyuan Li](https://escholarship.org/uc/item/5rg4q3sb).
