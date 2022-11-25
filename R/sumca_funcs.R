@@ -33,6 +33,7 @@ resampling=function(beta, G, R, X, Z){
 }
 
 #Main function
+#Model is a lme4 or nlme type model object
 MSPEsumca=function(model, K=NULL,L=NULL,resamp_k=NULL,data=NULL){
   designM=extract_design(model,data=data)
   attach(designM)
