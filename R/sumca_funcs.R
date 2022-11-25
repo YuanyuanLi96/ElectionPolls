@@ -95,8 +95,8 @@ extract_design=function(model,data){
     result$DF=model$data
     result$X=model.matrix(model,data = model$data)
     Zm= model.matrix(formula(model$modelStruct$reStr)[[1]],data=model$data)
-    f <- model$groups[,1]
-    Ji<-t(as(f,Class="sparseMatrix"))
+    f = model$groups[,1]
+    Ji=t(as(f,Class="sparseMatrix"))
     result$Z=t(KhatriRao(t(Ji),t(Zm)))
     result$ngrp=model$dims$ngrps[1]
   }
@@ -104,8 +104,8 @@ extract_design=function(model,data){
 }
 
 getErrorV=function(phi,form,data,var_e){
-cs1AR1 <- corAR1(phi, form=form)
-cs1AR1. <- Initialize(cs1AR1, data = data)
+cs1AR1 = corAR1(phi, form=form)
+cs1AR1. = Initialize(cs1AR1, data = data)
 vlist=corMatrix(cs1AR1.)
 Ematrix=as.matrix(.bdiag(vlist))*var_e
 return(Ematrix)
