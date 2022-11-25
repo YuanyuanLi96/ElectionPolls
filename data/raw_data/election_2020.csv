@@ -1,4 +1,4 @@
-state,dem_percent,rep_percent,EV,Abbrev
+state,ratio_dem,ratio_rep,EV,Abbrev
 Alabama,36.6,62,9,AL
 Alaska,42.8,52.8,3,AK
 Arizona,49.4,49.1,11,AZ
