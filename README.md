@@ -10,4 +10,4 @@ Steps to replicate results in the paper:
 
 ## References
 
-- ["Uncertainty Quantification for Model Selection, Rate Estimation and Related Topics" by Yuanyuan Li](https://escholarship.org/uc/item/5rg4q3sb).
+- [Post-election Analysis of Presidential Election/Poll Data]([https://escholarship.org/uc/item/5rg4q3sb](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Postelection-analysis-of-presidential-electionpoll-data/10.1214/22-AOAS1707.short)https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-3/Postelection-analysis-of-presidential-electionpoll-data/10.1214/22-AOAS1707.short).
